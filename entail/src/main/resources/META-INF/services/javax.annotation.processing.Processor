@@ -1,0 +1,3 @@
+#com.imdemo.TestProcessor
+#com.imdemo.codec.generator.DecoderAnnotationProcessor
+#com.imdemo.codec.generator.EncoderAnnotationProcessor
